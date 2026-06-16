@@ -4,13 +4,13 @@ This repository is dedicated to analyzing and clustering student learning behavi
 
 ---
 
-## 🚀 Getting Started & Dataset Setup
+##  Getting Started & Dataset Setup
 
 To run the notebooks in this repository, you must first set up the dataset. 
 
 1. **Download the Dataset:**
    Download the official MOOC-Radar dataset files from the following link:
-   👉 [Download MOOC-Radar Dataset](https://bhpan.buaa.edu.cn/anyshare/en-us/link/AAE5A458AFE444474EBEC928F98986E5B8/B787D29998CC4828AD4BD7AEEDB4AE45/667E34F342194C7EABBE0A94A32F134F/275D4A8183294772942B14554F49B66E?_tb=none)
+    [Download MOOC-Radar Dataset](https://bhpan.buaa.edu.cn/anyshare/en-us/link/AAE5A458AFE444474EBEC928F98986E5B8/B787D29998CC4828AD4BD7AEEDB4AE45/667E34F342194C7EABBE0A94A32F134F/275D4A8183294772942B14554F49B66E?_tb=none)
 
 2. **Place Files in the Repository:**
    Extract and place the downloaded JSON files inside a `datasets` folder at the root of this project:
@@ -24,7 +24,7 @@ To run the notebooks in this repository, you must first set up the dataset.
 
 ---
 
-## 📊 Project Workflow
+##  Project Workflow
 
 The analysis and modeling pipeline is divided across the following Jupyter notebooks:
 
@@ -47,7 +47,7 @@ The analysis and modeling pipeline is divided across the following Jupyter noteb
 
 ---
 
-## 🛠 Prerequisites & Installation
+##  Prerequisites & Installation
 
 To run the environment, install the standard Python data science libraries:
 
